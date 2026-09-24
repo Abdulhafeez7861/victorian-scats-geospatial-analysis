@@ -76,13 +76,13 @@ The chart below compares the ten traffic signal sites with the highest aggregate
 
 ```text
 vic_smart_traffic_analysis/
-├── data/
 ├── notebooks/
-│   ├── 01_data_exploration.ipynb
 │   └── 02_traffic_analysis.ipynb
 ├── outputs/
 │   ├── victorian_traffic_volume.geojson
 │   └── figures/
+│       ├── top_10_traffic_sites.png
+│       └── victorian_traffic_volume_map.png
 ├── README.md
 ├── requirements.txt
 └── .gitignore
