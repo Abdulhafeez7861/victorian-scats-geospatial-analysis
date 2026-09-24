@@ -1,6 +1,3 @@
-# Victorian Traffic Signal & SCATS Volume Analysis
-
-A Python geospatial data analysis project combining Victorian traffic signal locations with SCATS traffic volume data to identify and visualise high-volume traffic signal sites.
 
 # Victorian Traffic Signal & SCATS Volume Analysis
 
