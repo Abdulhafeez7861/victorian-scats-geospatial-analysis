@@ -1,0 +1,21 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw datasets
+data/*.csv
+
+# Environment files
+.env
+
+# Raw downloaded archives
+*.zip
+
+# Exploratory notebook - kept locally
+notebooks/01_data_exploration.ipynb
